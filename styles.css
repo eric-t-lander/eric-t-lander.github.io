@@ -2,4 +2,10 @@ body {
   background-color: whitesmoke;
   margin: 50px;
   text-align: left;
+  styledimg {
+background-image: url(/images/Karlevi.tiff);
+background-repeat: no-repeat;
+width: 10px;
+height: 20px;
+}
 }
