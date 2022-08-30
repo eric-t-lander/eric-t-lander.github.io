@@ -3,3 +3,6 @@ body {
   margin: 50px;
   text-align: left;
 }
+h4 {
+  font-weight: lighter;
+}
