@@ -2,12 +2,8 @@ body {
   background-color: whitesmoke;
   margin: 50px;
   text-align: left;
-  background-image:url("https://eric-t-lander.github.io/img/Karlevi.tiff");
-  background-size: cover;
 }
-background-image {
-  opacity: 0.5
-}
+
 h4 {
   font-weight: lighter;
 }
